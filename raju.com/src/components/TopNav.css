@@ -1,0 +1,35 @@
+.main-contain {
+    /* background-color: brown; */
+    display: flex;
+    /* background-image: url('images/img2.jpg'); */
+    background-size: cover;
+    padding: 15px;
+    background: aliceblue;
+
+}
+
+#logo {
+
+    width: 800px;
+    align-items: center;
+    padding: 1rem;
+    text-align: left;
+}
+
+#NavBar {
+
+    width: 800px;
+    justify-content: end;
+    align-items: center;
+    text-align: right;
+    padding: 1rem;
+
+
+
+}
+
+a {
+    text-decoration: none;
+    padding: 1rem;
+    color: black;
+}
